@@ -1,0 +1,11 @@
+[package]
+name = "network_checker"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+sysinfo = "0.29"
+if-addrs = "0.10"
+colored = "2.0"
+ctrlc = "3.4"
+chrono = "0.4"
